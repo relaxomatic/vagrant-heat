@@ -1,4 +1,3 @@
 .vagrant
-setup_db.done
 ubuntu-bionic-18.04-cloudimg-console.log
 src/hello/hello.go
